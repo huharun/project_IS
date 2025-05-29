@@ -94,4 +94,4 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/phishing-ml.git
-   cd phishing_IS
+   cd project_IS
